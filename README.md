@@ -5,6 +5,7 @@ Results: From a technical perspective, m6A-seq can be considered as a marriage o
 
 # Installation Instructions
 The Trumpet package can be installed by the following R commands:
+> devtools::install_github("lzcyzm/Guitar")
 > devtools::install_github("skyhorsetomoon/Trumpet")
 > 
 > library(Trumpet)
